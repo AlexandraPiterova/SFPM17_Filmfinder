@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">SFPM17_Filmfinder</string>
     <string name="disclaimer">Постеры предоставлены https://www.movieposters.com/</string>
-    <string name="menu_button">Меню</string>
-    <string name="favs_button">Избранное</string>
-    <string name="watchlater_button">Посмотреть позже</string>
+
+    <string name="menu_title_watch_later">Посмотреть позже</string>
+    <string name="menu_title_favorites">Избранное</string>
+    <string name="menu_title_selections">Подборки</string>
 </resources>
